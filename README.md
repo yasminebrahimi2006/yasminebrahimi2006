@@ -1,4 +1,4 @@
-<h1 align="center">سلام، من یاسمین هستم! 👋</h1>
+<h1 align="center">درود </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Learner+%F0%9F%90%8D;Documenting+My+Journey+%F0%9F%9A%80" alt="Typing SVG" />
@@ -7,11 +7,10 @@
 ---
 
 ## 🧑‍💻 درباره‌ی من
-
-- 🐍 در حال یادگیری **پایتون** به صورت پروژه‌محور
-- 📅 در حال انجام چالش **۳۰ روز پایتون و گیت‌هاب**
-- 📚 هر روز یه قدم کوچیک، ولی پیوسته
-- 💬 همیشه آماده‌ی یادگیری و همکاری
+- دانشجوی سال سوم مهندسی کامپیوتر
+- در حال یادگیری **پایتون** به صورت پروژه‌محور
+- در حال انجام چالش **۳۰ روز پایتون و گیت‌هاب**
+- همیشه آماده‌ی یادگیری و همکاری
 
 ---
 
