@@ -1,7 +1,7 @@
 <h1 align="center">سلام، من یاسمین هستم! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Learner+%F0%9F%90%8D;Building+GUI+Projects+%F0%9F%96%A5%EF%B8%8F;Documenting+My+30-Day+Journey+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Learner+%F0%9F%90%8D;Documenting+My+Journey+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
