@@ -1,16 +1,119 @@
-## Hi there 👋
+<h1 align="center">سلام، من یاسمین هستم! 👋</h1>
 
-<!--
-**yasminebrahimi2006/yasminebrahimi2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+Learner+%F0%9F%90%8D;Building+GUI+Projects+%F0%9F%96%A5%EF%B8%8F;Documenting+My+30-Day+Journey+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 درباره‌ی من
+
+- 🐍 در حال یادگیری **پایتون** به صورت پروژه‌محور
+- 🖥️ علاقه‌مند به ساخت **اپلیکیشن‌های گرافیکی** با Tkinter
+- 📅 در حال انجام چالش **۳۰ روز پایتون و گیت‌هاب**
+- 📚 هر روز یه قدم کوچیک، ولی پیوسته
+- 💬 همیشه آماده‌ی یادگیری و همکاری
+
+---
+
+## 🚀 پروژه‌های فعلی
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧮 ماشین حساب گرافیکی</h3>
+      <p align="center">ماشین حساب ساده با Tkinter</p>
+      <p align="center">
+        <a href="لینک-پروژه">
+          <img src="https://img.shields.io/badge/مشاهده-پروژه-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📝 دفترچه یادداشت</h3>
+      <p align="center">اپلیکیشن یادداشت‌برداری ساده</p>
+      <p align="center">
+        <a href="لینک-پروژه">
+          <img src="https://img.shields.io/badge/مشاهده-پروژه-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">✊✋✌️ سنگ کاغذ قیچی</h3>
+      <p align="center">بازی کلاسیک با رابط گرافیکی</p>
+      <p align="center">
+        <a href="لینک-پروژه">
+          <img src="https://img.shields.io/badge/مشاهده-پروژه-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">✅ لیست کارها (To-Do)</h3>
+      <p align="center">مدیریت کارهای روزانه</p>
+      <p align="center">
+        <a href="لینک-پروژه">
+          <img src="https://img.shields.io/badge/مشاهده-پروژه-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ مهارت‌ها
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📊 آمار گیت‌هاب من
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasminebrahimi2006&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasminebrahimi2006&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminebrahimi2006&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🎯 چالش ۳۰ روزه
+
+- [x] هفته ۱: ساختمان داده + Tkinter مقدماتی
+- [ ] هفته ۲: فایل و خطا + برنچ و مرج
+- [ ] هفته ۳: شی‌گرایی + Issue و README
+- [ ] هفته ۴: Tkinter پیشرفته + GitHub Pages
+
+---
+
+## 📫 راه‌های ارتباطی
+
+<p align="center">
+  <a href="mailto:Yasminerastin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yasminebrahimi2006">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- اگه لینکدین داری، این رو هم اضافه کن -->
+  <!-- <a href="لینک-لینکدین">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> -->
+</p>
+
+---
+
+<p align="center">
+  <i>«هر روز یه قدم کوچیک، بعد از یه سال میشه یه مسیر طولانی.» 🌱</i>
+</p>
